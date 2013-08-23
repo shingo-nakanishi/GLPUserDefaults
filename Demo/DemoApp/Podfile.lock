@@ -1,0 +1,14 @@
+PODS:
+  - GLPUserDefaults (0.0.1)
+
+DEPENDENCIES:
+  - GLPUserDefaults (from `../..`)
+
+EXTERNAL SOURCES:
+  GLPUserDefaults:
+    :path: ../..
+
+SPEC CHECKSUMS:
+  GLPUserDefaults: 6e7336e2c26f7e954c3c48e4556f6298a7c45749
+
+COCOAPODS: 0.23.0
