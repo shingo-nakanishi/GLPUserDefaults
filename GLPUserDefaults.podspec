@@ -75,7 +75,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, svn and HTTP.
   #
 
-  s.source       = { :git => "http://EXAMPLE/GLPUserDefaults.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/shingo-nakanishi/GLPUserDefaults", :tag => "0.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
